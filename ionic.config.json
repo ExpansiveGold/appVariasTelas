@@ -1,0 +1,7 @@
+{
+  "name": "appVariasTelas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
